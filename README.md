@@ -1,2 +1,2 @@
 # python_waz_plotter
-Python cartopy plot of ham radio WAZ
+Python cartopy shape file for CQ WW zones. Basic demonstration program provided
